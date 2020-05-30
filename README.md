@@ -1,6 +1,5 @@
 # Help2Feed Mobile App
-Help2Feed App helps charity organisations connect with individuals and hotels/restaurants, where the wastage of food can be minimised and it reaches the needy quickly. 
-We wanted to provide a sustainable solution to end hunger and poverty. 
+Help2Feed App helps charity organisations connect with individuals and hotels/restaurants, where the wastage of food can be minimised and it reaches the needy quickly. We wanted to provide a sustainable solution to end hunger and poverty. 
 
 Download the latest APK from [here](https://github.com/Mithileysh/Help2Feed/releases/download/v1.0/help2feed_v1.apk) to install the application.
 
@@ -12,7 +11,7 @@ Home | Login  | Hotel Connects | Donation
 ![image](https://github.com/Mithileysh/Help2Feed/blob/master/Figures/image1.jpeg)  |  ![image](https://github.com/Mithileysh/Help2Feed/blob/master/Figures/image3.jpeg) |  ![image](https://github.com/Mithileysh/Help2Feed/blob/master/Figures/image2.jpeg) |  ![image](https://github.com/Mithileysh/Help2Feed/blob/master/Figures/image4.jpeg)
 
 
-The App can be downloaded for FREE from the link provided above.  
+The App can be downloaded for FREE from the link provided above. The World Food Programme has said the coronavirus outbreak could cause "multiple famines of biblical proportions" in the coming months. We have developed an app that can end hunger, poverty and wastage of food. 
 ## Features
 1. Individuals can login and connect chairty organisations with Hotels/Restaurants/Catering Services.
 2. Individuals can donate funds or food to charity organisations. 
