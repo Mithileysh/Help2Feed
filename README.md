@@ -14,18 +14,15 @@ Home | Login  | Hotel Connects | Donation
 
 The App can be downloaded for FREE from the link provided above.  
 ## Features
-1. Take self assessment with our DoctorBot
-2. Import advice to the public to keep in mind during this quaratine
-3. Get help by a single click from Indian govt. HelpLine
-4. Attractive UI which function in dark mode, its saves your battery life
-5. Light weight
+1. Individuals can login and connect chairty organisations with Hotels/Restaurants/Catering Services.
+2. Individuals can donate funds or food to charity organisations. 
+3. Charity organisation can directly request Hotels/Restaurants for food.
+4. Hotels/Restaurants can directly supply food to Charity organisations. 
 
-#Be Safe. #Be Healthy. #Be Happy. 
-#Stay Home. #Stay Aware. #Stay Informed.
+#Stop Hunger. #Stop Poverty. #Stop Wastage of Food. 
 
 ### Developed By
-Saravana\
-of Sri Sairam Engineering College, Chennai.
+Saravana, student of Sri Sairam Engineering College, Chennai.
 
 The student volunteered with the [RAJ Square Charity Foundation](https://www.rajsquare.com) to help people learn and get aware on the ongoing pandemic COVID-19. Completely powered by [MIT Square](https://www.mitsquare.com).
 
