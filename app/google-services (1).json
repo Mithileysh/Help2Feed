@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "651712984408",
+    "firebase_url": "https://p2ffirebaseproject.firebaseio.com",
+    "project_id": "p2ffirebaseproject",
+    "storage_bucket": "p2ffirebaseproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651712984408:android:e279cad0093ae9a293a12d",
+        "android_client_info": {
+          "package_name": "com.example.p2f"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651712984408-li9fkv3b0tprab1fi9m7rvgfaufr1rdq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.p2f",
+            "certificate_hash": "ae945f80ad8a53563ecaf8d0dd80e531f6f759c2"
+          }
+        },
+        {
+          "client_id": "651712984408-jsheg3381br8li52keciam30ojg7b2a1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUy4lUYBH5LBlDDXtNnQVoHSTOqblLbAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651712984408-jsheg3381br8li52keciam30ojg7b2a1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
