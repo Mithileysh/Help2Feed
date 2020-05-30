@@ -9,7 +9,7 @@ Download the latest APK from [here](https://github.com/Mithileysh/Help2Feed/rele
 
 Services | Advice  | Meet your doctor | Doctorbot
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![image](https://github.com/Balaji-star/CORX_app/blob/master/home.jpg)  |  ![image](https://github.com/Balaji-star/CORX_app/blob/master/advice.jpg) |  ![image](https://github.com/Balaji-star/CORX_app/blob/master/Doctor.jpg) |  ![image](https://github.com/Balaji-star/CORX_app/blob/master/chatbot.jpg)
+![image](https://github.com/Mithileysh/Help2Feed/blob/master/Figures/image1.jpeg)  |  ![image](https://github.com/Mithileysh/Help2Feed/blob/master/Figures/image2.jpeg) |  ![image](https://github.com/Mithileysh/Help2Feed/blob/master/Figures/image3.jpeg) |  ![image](https://github.com/Mithileysh/Help2Feed/blob/master/Figures/image4.jpeg)
 
 
 The App can be downloaded for FREE from the link provided above.  
