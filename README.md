@@ -24,7 +24,7 @@ The App can be downloaded for FREE from the link provided above.
 ### Developed By
 Saravana, student of Sri Sairam Engineering College, Chennai.
 
-The student volunteered with the [RAJ Square Charity Foundation](https://www.rajsquare.com) to help people learn and get aware on the ongoing pandemic COVID-19. Completely powered by [MIT Square](https://www.mitsquare.com).
+The student volunteered with the [RAJ Square Charity Foundation](https://www.rajsquare.com) to help people and hotels/restaurants stop wasting food and donate it directly to charity organisations. Completely powered by [MIT Square](https://www.mitsquare.com).
 
 - The pre-version of the app was released on 28 May 2020 to celebrate "World Hunger Day". 
   The app was released as a part of creating awareness to the society about hunger, poverty and stopping wastage of food. 
