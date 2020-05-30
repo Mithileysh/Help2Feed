@@ -7,9 +7,9 @@ Download the latest APK from [here](https://github.com/Mithileysh/Help2Feed/rele
 <td align="center"><a href="https://github.com/Mithileysh/Help2Feed/releases/download/v1.0/help2feed_v1.apk"><img src="https://user-images.githubusercontent.com/663460/26973090-f8fdc986-4d14-11e7-995a-e7c5e79ed925.png" alt="Get it on Github" height="68"></a></td>
 
 
-Services | Advice  | Meet your doctor | Doctorbot
+Home | Login  | Hotel Connects | Donation
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![image](https://github.com/Mithileysh/Help2Feed/blob/master/Figures/image1.jpeg)  |  ![image](https://github.com/Mithileysh/Help2Feed/blob/master/Figures/image2.jpeg) |  ![image](https://github.com/Mithileysh/Help2Feed/blob/master/Figures/image3.jpeg) |  ![image](https://github.com/Mithileysh/Help2Feed/blob/master/Figures/image4.jpeg)
+![image](https://github.com/Mithileysh/Help2Feed/blob/master/Figures/image1.jpeg)  |  ![image](https://github.com/Mithileysh/Help2Feed/blob/master/Figures/image3.jpeg) |  ![image](https://github.com/Mithileysh/Help2Feed/blob/master/Figures/image2.jpeg) |  ![image](https://github.com/Mithileysh/Help2Feed/blob/master/Figures/image4.jpeg)
 
 
 The App can be downloaded for FREE from the link provided above.  
