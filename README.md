@@ -1,5 +1,5 @@
 # Help2Feed Mobile App
-Help2Feed App helps charity organisations connect with individuals and hotels/restaurants, where the wastage of food can be minimised and it reaches the needy quickly. We wanted to provide a sustainable solution to end hunger and poverty. 
+Help2Feed App helps charity organisations connect with individuals and hotels/restaurants, where the wastage of food can be minimised and it reaches the needy quickly. We wanted to provide a sustainable solution to end hunger and poverty by adopting Sustainable Development Goals (SDG) proposed by United Nations. 
 
 Download the latest APK from [here](https://github.com/Mithileysh/Help2Feed/releases/download/v1.0/help2feed_v1.apk) to install the application.
 
